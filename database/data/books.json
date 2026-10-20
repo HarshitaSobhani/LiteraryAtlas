@@ -1,0 +1,546 @@
+[
+ {
+  "slug": "ulysses",
+  "title": "Ulysses",
+  "authors": [
+   "James Joyce"
+  ],
+  "year": 1922,
+  "genre": "Modernist",
+  "description": "A single day in Dublin, 16 June 1904, follows Leopold Bloom, Stephen Dedalus and Molly Bloom. Its experimental style made it a landmark of modernist fiction.",
+  "places": [
+   [
+    "dublin",
+    "setting",
+    "verified",
+    "The whole novel unfolds across Dublin."
+   ],
+   [
+    "sweenys-pharmacy",
+    "landmark",
+    "verified",
+    "Bloom buys lemon soap here in the Lotus Eaters episode."
+   ],
+   [
+    "james-joyce-tower",
+    "setting",
+    "verified",
+    "The opening scene takes place on the roof of this tower."
+   ],
+   [
+    "shakespeare-and-company",
+    "publisher_link",
+    "verified",
+    "Sylvia Beach's original shop published the first edition."
+   ]
+  ],
+  "ol_key": "OL86318W",
+  "cover_id": 13136548
+ },
+ {
+  "slug": "dubliners",
+  "title": "Dubliners",
+  "authors": [
+   "James Joyce"
+  ],
+  "year": 1914,
+  "genre": "Modernist",
+  "description": "Fifteen linked short stories portray ordinary lives in early twentieth-century Dublin, from childhood through public life.",
+  "places": [
+   [
+    "dublin",
+    "setting",
+    "verified",
+    "Every story is set in or around Dublin."
+   ],
+   [
+    "james-joyce-centre",
+    "author_connection",
+    "verified",
+    "Exhibitions and tours on Joyce and his Dublin."
+   ]
+  ],
+  "ol_key": "OL86320W",
+  "cover_id": 8216412
+ },
+ {
+  "slug": "the-great-gatsby",
+  "title": "The Great Gatsby",
+  "authors": [
+   "F. Scott Fitzgerald"
+  ],
+  "year": 1925,
+  "genre": "Classic",
+  "description": "Nick Carraway watches his wealthy neighbour Jay Gatsby chase a lost love in Jazz Age New York.",
+  "places": [
+   [
+    "plaza-hotel-new-york",
+    "landmark",
+    "verified",
+    "The hotel suite confrontation is the novel's turning point."
+   ],
+   [
+    "great-neck",
+    "inspiration",
+    "uncertain",
+    "Fitzgerald lived here and West Egg is commonly read as modelled on it."
+   ]
+  ],
+  "ol_key": "OL468431W",
+  "cover_id": 10590366
+ },
+ {
+  "slug": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "authors": [
+   "Jane Austen"
+  ],
+  "year": 1813,
+  "genre": "Classic",
+  "description": "Elizabeth Bennet and Mr Darcy overcome pride and misjudgement in Regency England.",
+  "places": [
+   [
+    "chawtons-jane-austens-house",
+    "author_connection",
+    "verified",
+    "Austen revised the novel for publication while living here."
+   ]
+  ],
+  "ol_key": "OL66554W",
+  "cover_id": 14348537
+ },
+ {
+  "slug": "persuasion",
+  "title": "Persuasion",
+  "authors": [
+   "Jane Austen"
+  ],
+  "year": 1817,
+  "genre": "Classic",
+  "description": "Anne Elliot gets a second chance at love eight years after being persuaded to refuse Captain Wentworth.",
+  "places": [
+   [
+    "bath",
+    "setting",
+    "verified",
+    "The later chapters are set in Bath."
+   ],
+   [
+    "jane-austen-centre-bath",
+    "author_connection",
+    "verified",
+    "Explores Austen's years in Bath."
+   ],
+   [
+    "the-cobb-lyme-regis",
+    "landmark",
+    "verified",
+    "Louisa Musgrove's fall happens on the Cobb."
+   ],
+   [
+    "chawtons-jane-austens-house",
+    "author_connection",
+    "verified",
+    "Austen wrote the novel while living at Chawton."
+   ]
+  ],
+  "ol_key": "OL66544W",
+  "cover_id": 12824691
+ },
+ {
+  "slug": "les-miserables",
+  "title": "Les Misérables",
+  "authors": [
+   "Victor Hugo"
+  ],
+  "year": 1862,
+  "genre": "Historical Fiction",
+  "description": "Jean Valjean's search for redemption unfolds against poverty, justice and revolution in nineteenth-century France.",
+  "places": [
+   [
+    "paris",
+    "setting",
+    "verified",
+    "Large parts of the story take place in Paris."
+   ],
+   [
+    "maison-de-victor-hugo",
+    "author_connection",
+    "verified",
+    "Hugo lived here when he began work on the book."
+   ]
+  ],
+  "ol_key": "OL1063588W",
+  "cover_id": 12721865
+ },
+ {
+  "slug": "a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "authors": [
+   "Arthur Conan Doyle"
+  ],
+  "year": 1887,
+  "genre": "Mystery",
+  "description": "The first story to introduce Sherlock Holmes and Dr Watson, who investigate a murder in London.",
+  "places": [
+   [
+    "london-baker-street",
+    "landmark",
+    "verified",
+    "The fictional address 221B Baker Street is introduced here."
+   ]
+  ],
+  "ol_key": "OL262496W",
+  "cover_id": 13405534
+ },
+ {
+  "slug": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "authors": [
+   "Arthur Conan Doyle"
+  ],
+  "year": 1902,
+  "genre": "Mystery",
+  "description": "Holmes and Watson investigate a family curse involving a spectral hound on a lonely moor.",
+  "places": [
+   [
+    "dartmoor",
+    "setting",
+    "verified",
+    "The story is set on Dartmoor in Devon."
+   ],
+   [
+    "london-baker-street",
+    "landmark",
+    "verified",
+    "Holmes's Baker Street rooms frame the case."
+   ]
+  ],
+  "ol_key": "OL262454W",
+  "cover_id": 8063264
+ },
+ {
+  "slug": "harry-potter-and-the-philosophers-stone",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "authors": [
+   "J. K. Rowling"
+  ],
+  "year": 1997,
+  "genre": "Fantasy",
+  "description": "An orphaned boy learns he is a wizard and starts school at Hogwarts.",
+  "places": [
+   [
+    "kings-cross-station",
+    "setting",
+    "verified",
+    "Harry catches the Hogwarts Express from Platform 9¾."
+   ]
+  ],
+  "ol_key": "OL82563W",
+  "cover_id": 15155833
+ },
+ {
+  "slug": "one-hundred-years-of-solitude",
+  "title": "One Hundred Years of Solitude",
+  "authors": [
+   "Gabriel García Márquez"
+  ],
+  "year": 1967,
+  "genre": "Magical Realism",
+  "description": "Seven generations of the Buendía family live and fall in the fictional town of Macondo.",
+  "places": [
+   [
+    "aracataca",
+    "inspiration",
+    "uncertain",
+    "The author's birthplace is widely linked to Macondo."
+   ]
+  ],
+  "ol_key": "OL43108828W",
+  "cover_id": 15185412
+ },
+ {
+  "slug": "the-shadow-of-the-wind",
+  "title": "The Shadow of the Wind",
+  "authors": [
+   "Carlos Ruiz Zafón"
+  ],
+  "year": 2001,
+  "genre": "Historical Fiction",
+  "description": "A boy discovers a forgotten book in a hidden library and searches for its vanished author.",
+  "places": [
+   [
+    "barcelona",
+    "setting",
+    "verified",
+    "The story follows Barcelona after the Civil War."
+   ]
+  ],
+  "ol_key": "OL278437W",
+  "cover_id": 10107644
+ },
+ {
+  "slug": "norwegian-wood",
+  "title": "Norwegian Wood",
+  "authors": [
+   "Haruki Murakami"
+  ],
+  "year": 1987,
+  "genre": "Literary Fiction",
+  "description": "Toru Watanabe looks back on love, loss and friendship as a student in the late 1960s.",
+  "places": [
+   [
+    "tokyo",
+    "setting",
+    "verified",
+    "Most of the story takes place in Tokyo."
+   ]
+  ],
+  "ol_key": "OL2625457W",
+  "cover_id": 2237620
+ },
+ {
+  "slug": "the-name-of-the-rose",
+  "title": "The Name of the Rose",
+  "authors": [
+   "Umberto Eco"
+  ],
+  "year": 1980,
+  "genre": "Historical Fiction",
+  "description": "A Franciscan friar investigates murders in a medieval Italian abbey.",
+  "places": [
+   [
+    "sacra-di-san-michele",
+    "inspiration",
+    "uncertain",
+    "Often cited as one inspiration for the fictional abbey."
+   ]
+  ],
+  "ol_key": "OL37535473W",
+  "cover_id": 15023290
+ },
+ {
+  "slug": "don-quixote",
+  "title": "Don Quixote",
+  "authors": [
+   "Miguel de Cervantes"
+  ],
+  "year": 1605,
+  "genre": "Classic",
+  "description": "A gentleman who reads too many chivalric romances sets out to revive knight-errantry with his squire Sancho Panza.",
+  "places": [
+   [
+    "campo-de-criptana",
+    "landmark",
+    "uncertain",
+    "Local tradition links these windmills to the giants Quixote fights."
+   ]
+  ],
+  "ol_key": "OL26799707W",
+  "cover_id": 13846974
+ },
+ {
+  "slug": "a-moveable-feast",
+  "title": "A Moveable Feast",
+  "authors": [
+   "Ernest Hemingway"
+  ],
+  "year": 1964,
+  "genre": "Memoir",
+  "description": "Hemingway's memoir recalls his early years as a writer in 1920s Paris.",
+  "places": [
+   [
+    "paris",
+    "setting",
+    "verified",
+    "The memoir recalls Hemingway's years in Paris."
+   ],
+   [
+    "shakespeare-and-company",
+    "landmark",
+    "verified",
+    "Hemingway describes borrowing books from Sylvia Beach's shop."
+   ],
+   [
+    "closerie-des-lilas",
+    "landmark",
+    "verified",
+    "Described as a place where he wrote."
+   ]
+  ],
+  "ol_key": "OL63064W",
+  "cover_id": 7268728
+ },
+ {
+  "slug": "the-sun-also-rises",
+  "title": "The Sun Also Rises",
+  "authors": [
+   "Ernest Hemingway"
+  ],
+  "year": 1926,
+  "genre": "Classic",
+  "description": "A group of American and British expatriates travel from Paris to the fiesta at Pamplona.",
+  "places": [
+   [
+    "pamplona",
+    "setting",
+    "verified",
+    "The fiesta of San Fermín is the novel's centrepiece."
+   ],
+   [
+    "cafe-iruna",
+    "author_connection",
+    "uncertain",
+    "Hemingway frequented the café, but the novel does not name it."
+   ]
+  ],
+  "ol_key": "OL62979W",
+  "cover_id": 78741
+ },
+ {
+  "slug": "anne-of-green-gables",
+  "title": "Anne of Green Gables",
+  "authors": [
+   "L. M. Montgomery"
+  ],
+  "year": 1908,
+  "genre": "Classic",
+  "description": "An imaginative orphan girl changes the lives of the Cuthberts in rural Prince Edward Island.",
+  "places": [
+   [
+    "green-gables-heritage-place",
+    "inspiration",
+    "verified",
+    "The farm and its landscape inspired the book's setting."
+   ]
+  ],
+  "ol_key": "OL77746W",
+  "cover_id": 14641084
+ },
+ {
+  "slug": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "authors": [
+   "Emily Brontë"
+  ],
+  "year": 1847,
+  "genre": "Classic",
+  "description": "A turbulent love between Heathcliff and Catherine Earnshaw plays out on the Yorkshire moors.",
+  "places": [
+   [
+    "bronte-parsonage-museum",
+    "author_connection",
+    "verified",
+    "Emily wrote the novel while living at the parsonage."
+   ]
+  ],
+  "ol_key": "OL21177W",
+  "cover_id": 12818862
+ },
+ {
+  "slug": "crime-and-punishment",
+  "title": "Crime and Punishment",
+  "authors": [
+   "Fyodor Dostoevsky"
+  ],
+  "year": 1866,
+  "genre": "Classic",
+  "description": "A destitute student commits a murder and wrestles with guilt in Saint Petersburg.",
+  "places": [
+   [
+    "saint-petersburg",
+    "setting",
+    "verified",
+    "Raskolnikov's story is set in real districts of the city."
+   ],
+   [
+    "dostoevsky-museum",
+    "author_connection",
+    "verified",
+    "Dostoevsky's last home, though he wrote another novel there."
+   ]
+  ],
+  "ol_key": "OL32525579W",
+  "cover_id": 13116014
+ },
+ {
+  "slug": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "authors": [
+   "Mikhail Bulgakov"
+  ],
+  "year": 1967,
+  "genre": "Magical Realism",
+  "description": "The devil visits Soviet Moscow while a writer's novel about Pontius Pilate takes shape.",
+  "places": [
+   [
+    "patriarchs-ponds",
+    "setting",
+    "verified",
+    "The novel opens here."
+   ]
+  ],
+  "ol_key": "OL36999384W",
+  "cover_id": 15013644
+ },
+ {
+  "slug": "little-women",
+  "title": "Little Women",
+  "authors": [
+   "Louisa May Alcott"
+  ],
+  "year": 1868,
+  "genre": "Classic",
+  "description": "Four sisters grow up in Massachusetts during and after the American Civil War.",
+  "places": [
+   [
+    "orchard-house",
+    "landmark",
+    "verified",
+    "Alcott wrote the novel here and drew on the house."
+   ]
+  ],
+  "ol_key": "OL29983W",
+  "cover_id": 8775559
+ },
+ {
+  "slug": "walden",
+  "title": "Walden",
+  "authors": [
+   "Henry David Thoreau"
+  ],
+  "year": 1854,
+  "genre": "Nonfiction",
+  "description": "Thoreau reflects on simple living and nature during two years in a cabin at Walden Pond.",
+  "places": [
+   [
+    "walden-pond",
+    "setting",
+    "verified",
+    "The book describes life on the shore of the pond."
+   ]
+  ],
+  "ol_key": "OL55649W",
+  "cover_id": 11248037
+ },
+ {
+  "slug": "on-the-road",
+  "title": "On the Road",
+  "authors": [
+   "Jack Kerouac"
+  ],
+  "year": 1957,
+  "genre": "Literary Fiction",
+  "description": "Sal Paradise and Dean Moriarty crisscross the United States in a restless search for experience.",
+  "places": [
+   [
+    "city-lights-bookstore",
+    "author_connection",
+    "uncertain",
+    "Linked through the Beat circle, not through a scene in the novel."
+   ]
+  ],
+  "ol_key": "OL65906W",
+  "cover_id": 34655
+ }
+]
